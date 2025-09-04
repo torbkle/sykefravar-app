@@ -16,3 +16,15 @@ For å kjøre appen lokalt:
 ```bash
 pip install streamlit pandas scikit-learn matplotlib seaborn
 streamlit run app.py
+## 📊 Modell og analyse
+
+Modellen er trent på sykefraværsdata og bruker regresjon for å estimere fremtidig fravær. Du kan justere parametere i appen og se hvordan prediksjonene endres.
+
+## 🖼️ Skjermbilde
+
+
+## 👤 Utvikler
+
+**Torbjørn Kleiven**  
+📧 torkle05553@stud.noroff.no  
+📚 Student ved Noroff
