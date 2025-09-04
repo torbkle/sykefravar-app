@@ -51,7 +51,7 @@ if uploaded_file is not None:
 st.markdown("---")
 st.markdown("### 👨‍💻 Om denne appen")
 st.markdown("""
-Denne appen er utviklet av **Torbjørn Kleiven** som en del av Noroff-studiet i anvendt maskinlæring.
+Denne appen er utviklet av **Torbjørn Kleiven**.
 
 Den bruker en lineær regresjonsmodell for å predikere sykefravær basert på faktorer som alder, kjønn, arbeidsmiljø og jobbstress.
 
